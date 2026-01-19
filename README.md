@@ -92,4 +92,4 @@ The `GraphNode` isn't just a dummy chart. It inspects your data structure:
 
 ---
 
-*Built for UIDAI Hackathon 2024 by Team 1719.*
+*Built for UIDAI Data Hackathon 2026 by Team 1719.*
