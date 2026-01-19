@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "functions": {
+        "import-csv": {
+            "verify_jwt": false
+        }
+    }
+}

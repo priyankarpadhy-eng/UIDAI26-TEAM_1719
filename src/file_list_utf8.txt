@@ -1,0 +1,31 @@
+﻿
+
+    Directory: C:\Users\priya\OneDrive\Documents\26 UIDAI 
+    HACHATHON\codes_uidai\uidai-team-1719\src
+
+
+Mode                 LastWriteTime         Length Name     
+----                 -------------         ------ ----     
+da---l        08-01-2026     16:37                assets   
+da---l        09-01-2026     14:25                component
+                                                  s        
+da---l        08-01-2026     14:09                config   
+da---l        09-01-2026     12:07                context  
+da---l        08-01-2026     22:59                data     
+da---l        06-01-2026     16:59                db       
+da---l        06-01-2026     19:29                hooks    
+da---l        09-01-2026     14:53                pages    
+da---l        07-01-2026     14:53                services 
+da---l        08-01-2026     23:30                utils    
+da---l        07-01-2026     14:53                workers  
+-a---l        06-01-2026     12:54            606 App.css  
+-a----        09-01-2026     14:53           2802 file_list
+                                                  .txt     
+-a----        09-01-2026     14:54            911 file_list
+                                                  _utf8.txt
+-a---l        09-01-2026     14:46           1923 index.css
+-a---l        06-01-2026     12:54            229 main.jsx 
+-a---l        06-01-2026     17:04            917 supabaseC
+                                                  lient.js 
+
+

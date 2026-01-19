@@ -1,0 +1,62 @@
+[
+    {
+        "conditions": {
+            "all": [
+                {
+                    "fact": "saturation",
+                    "operator": "lessThan",
+                    "value": 50
+                },
+                {
+                    "fact": "area_type",
+                    "operator": "equal",
+                    "value": "Rural"
+                }
+            ]
+        },
+        "event": {
+            "type": "recommend_action",
+            "params": {
+                "title": "Deploy Mobile Enrollment Unit",
+                "urgency": "Critical",
+                "action_steps": [
+                    "Dispatch Mobile Van to Sector 4",
+                    "Schedule local panchayat announcement",
+                    "Activate 4G hotspot backup"
+                ],
+                "confidence": 0.98,
+                "reasoning": "EMA Analysis indicates 98% success rate for Mobile Vans in low-saturation rural clusters."
+            }
+        }
+    },
+    {
+        "conditions": {
+            "all": [
+                {
+                    "fact": "saturation",
+                    "operator": "lessThan",
+                    "value": 60
+                },
+                {
+                    "fact": "area_type",
+                    "operator": "equal",
+                    "value": "Urban"
+                }
+            ]
+        },
+        "event": {
+            "type": "recommend_action",
+            "params": {
+                "title": "Weekend Mega-Camp",
+                "urgency": "High",
+                "action_steps": [
+                    "Setup camp in Community Hall",
+                    "Partner with local housing society",
+                    "Extend hours to 8 PM"
+                ],
+                "confidence": 0.92,
+                "reasoning": "Urban working population responds best to weekend accessibility."
+            }
+        }
+    }
+]
