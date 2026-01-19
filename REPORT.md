@@ -1,4 +1,4 @@
-# S.A.M.A.R.T.H. Decision Engine - Technical Analysis Report
+# S.A.M.A.R.T.H. Decision Engine - UIDAI Data Hackathon 2026 Report
 
 ## 1. Executive Summary
 This report details the technical architecture of the **Decision Engine**, a node-based visual programming interface designed for complex data analysis. The system allows users to construct data pipelines using a "Drag-and-Drop" interface, where each node performs specific tasks like data ingestion, transformation, visualization, and automated decision-making.
